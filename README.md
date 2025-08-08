@@ -1,7 +1,4 @@
 ﻿# Test-Dinner
- This application is a web-based food ordering system designed for Contour employees to conveniently order meals from the company cafeteria. The menu changes based on the day of the week, and users can select their desired food items using checkboxes. As items are selected, the total cost of the order is automatically calculated and displayed in real-time. The application includes a built-in compensation system where Contour covers up to 50 rubles of the daily meal cost, and any remaining amount is deducted from the employee's salary.
+Bug Report : https://docs.google.com/spreadsheets/d/1zvXpS90tPcyy3YXkYoVW4TRiLLLqikrMP6nOXFhMB-g/edit?usp=drive_link
 
-Once an order is finalized by clicking the “Make the order” button, it is saved in the order history. This history shows the day of the order, the list of selected food items, and the total cost, allowing employees to track their past meals. Additionally, the application offers a “Start again” button, which resets the form so users can place a new order from scratch.
-
-The application mirrors the traditional offline food purchasing process but adds the convenience of remote ordering. It is especially helpful for employees working from different offices who might not have direct access to the cafeteria. Overall, the system aims to streamline the meal ordering experience within the organization by combining ease of use, automatic calculations, and clear tracking of orders and expenses
 
